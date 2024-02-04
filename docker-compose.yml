@@ -9,4 +9,4 @@ services:
       GOOGLE_API_KEY: ${GOOGLE_API_KEY}
       GOOGLE_CX_KEY: ${GOOGLE_CX_KEY}
     ports:
-      - 8000:8000
+      - 80:8000

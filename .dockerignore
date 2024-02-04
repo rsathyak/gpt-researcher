@@ -1,14 +1,7 @@
-.github
-aws
-docs
-examples
-outputs
-.env
 .gitignore
-awscliv2.zip
 CODE_OF_CONDUCT.md
-config.json
 CONTRIBUTING.md
 LICENSE
 README.md
 README-zh_CN.md
+/logging

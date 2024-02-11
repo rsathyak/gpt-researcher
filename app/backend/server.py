@@ -13,7 +13,6 @@ class ResearchRequest(BaseModel):
     report_type: str
     agent: str
 
-
 app = FastAPI()
 
 app.mount("/site", StaticFiles(directory="./frontend"), name="site")
